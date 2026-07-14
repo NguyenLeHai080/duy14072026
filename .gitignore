@@ -7,6 +7,6 @@ wp-content/upgrade/
 db-admin-*/
 *.sql
 *.sql.gz
+!database/migrations/*.sql
 *.log
 .DS_Store
-
