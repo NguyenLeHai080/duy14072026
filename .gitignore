@@ -1,0 +1,12 @@
+wp-config.php
+.env
+.env.*
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+db-admin-*/
+*.sql
+*.sql.gz
+*.log
+.DS_Store
+
